@@ -1,0 +1,151 @@
+Overgrow - // - Chlorophyll
+Overgrow - // - Chlorophyll
+Overgrow - // - Chlorophyll
+Blaze - // - Solar Power
+Blaze - // - Solar Power
+Blaze - // - Solar Power
+Torrent - // - Rain Dish
+Torrent - // - Rain Dish
+Torrent - // - Rain Dish
+Shield Dust	- // - Run Away
+Shed Skin - // - //
+Compound Eyes - // - Tinted Lens
+Shield Dust	- // - Run Away
+Shed Skin - // - //
+Swarm - // - Sniper
+Keen Eye - Tangled Feet - Big Pecks
+Keen Eye - Tangled Feet - Big Pecks
+Keen Eye - Tangled Feet - Big Pecks
+Run Away - Guts - Hustle
+Run Away - Guts - Hustle
+Keen Eye - // - Sniper
+Keen Eye - // - Sniper
+Intimidate - Shed Skin - Unnerve
+Intimidate - Shed Skin - Unnerve
+Static - // - Lightning Rod
+Static - // - Lightning Rod
+Sand Veil - // - Sand Rush
+Sand Veil - // - Sand Rush
+Poison Point - Rivalry - Hustle
+Poison Point - Rivalry - Hustle
+Poison Point - Rivalry - Sheer Force
+Poison Point - Rivalry - Hustle
+Poison Point - Rivalry - Hustle
+Poison Point - Rivalry - Sheer Force
+Cute Charm - Magic Guard - Friend Guard
+Cute Charm - Magic Guard - Unaware
+Flash Fire - // - Drought
+Flash Fire - // - Drought
+Cute Charm - Competitive - Friend Guard
+Cute Charm - Competitive - Frisk
+Inner Focus - // - Infiltrator
+Inner Focus - // - Infiltrator
+Chlorophyll - // - Run Away
+Chlorophyll - // - Stench
+Chlorophyll - // - Effect Spore
+Effect Spore - Dry Skin - Damp
+Effect Spore - Dry Skin - Damp
+Compound Eyes - Tinted Lens - Run Away
+Shield Dust - Tinted Lens - Wonder Skin
+Sand Veil - Arena Trap - Sand Force
+Sand Veil - Arena Trap - Sand Force
+Pickup - Technician - Unnerve
+Limber - Technician - Unnerve
+Damp - Cloud Nine - Swift Swim
+Damp - Cloud Nine - Swift Swim
+Vital Spirit - Anger Point - Defiant
+Vital Spirit - Anger Point - Defiant
+Intimidate - Flash Fire - Justified
+Intimidate - Flash Fire - Justified
+Water Absorb - Damp - Swift Swim
+Water Absorb - Damp - Swift Swim
+Water Absorb - Damp - Swift Swim
+Synchronize - Inner Focus - Magic Guard
+Synchronize - Inner Focus - Magic Guard
+Synchronize - Inner Focus - Magic Guard
+Guts - No Guard - Steadfast
+Guts - No Guard - Steadfast
+Guts - No Guard - Steadfast
+Chlorophyll - // - Gluttony
+Chlorophyll - // - Gluttony
+Chlorophyll - // - Gluttony
+Clear Body - Liquid Ooze - Rain Dish
+Clear Body - Liquid Ooze - Rain Dish
+Rock Head - Sturdy - Sand Veil
+Rock Head - Sturdy - Sand Veil
+Rock Head - Sturdy - Sand Veil
+Run Away - Flash Fire - Flame Body
+Run Away - Flash Fire - Flame Body
+Oblivious - Own Tempo - Regenerator
+Oblivious - Own Tempo - Regenerator
+Magnet Pull - Sturdy - Analytic
+Magnet Pull - Sturdy - Analytic
+Keen Eye - Inner Focus - Defiant
+Run Away - Early Bird - Tangled Feet
+Run Away - Early Bird - Tangled Feet
+Thick Fat - Hydration - Ice Body
+Thick Fat - Hydration - Ice Body
+Stench - Sticky Hold - Poison Touch
+Stench - Sticky Hold - Poison Touch
+Shell Armor - Skill Link - Overcoat
+Shell Armor - Skill Link - Overcoat
+Levitate - // - //
+Levitate - // - //
+Cursed Body - // - //
+Rock Head - Sturdy - Weak Armor
+Insomnia - Forewarn - Inner Focus
+Insomnia - Forewarn - Inner Focus
+Hyper Cutter - Shell Armor - Sheer Force
+Hyper Cutter - Shell Armor - Sheer Force
+Soundproof - Static - Aftermath
+Soundproof - Static - Aftermath
+Chlorophyll	- // - Harvest
+Chlorophyll	- // - Harvest
+Rock Head - Lightning Rod - Battle Armor
+Rock Head - Lightning Rod - Battle Armor
+Limber - Reckless - Unburden
+Keen Eye - Iron Fist - Inner Focus
+Own Tempo - Oblivious - Cloud Nine
+Levitate - Neutralizing Gas - Stench
+Levitate - Neutralizing Gas - Stench
+Lightning Rod - Rock Head - Reckless
+Lightning Rod - Rock Head - Reckless
+Natural Cure - Serene Grace	- Healer
+Chlorophyll - Leaf Guard - Regenerator
+Early Bird - Scrappy - Inner Focus
+Swift Swim - Sniper - Damp
+Poison Point - Sniper - Damp
+Swift Swim - Water Veil - Lightning Rod
+Swift Swim - Water Veil - Lightning Rod
+Illuminate - Natural Cure - Analytic
+Illuminate - Natural Cure - Analytic
+Soundproof - Filter - Technician
+Swarm - Technician - Steadfast
+Oblivious - Forewarn - Dry Skin
+Static - // - Vital Spirit
+Flame Body - // - Vital Spirit
+Hyper Cutter - Mold Breaker - Moxie
+Intimidate - Anger Point - Sheer Force
+Swift Swim - // - Rattled
+Swift Swim - // - Moxie
+Water Absorb - Shell Armor - Hydration
+Limber - // - Imposter
+Run Away - Adaptability - Anticipation
+Water Absorb - // - Hydration
+Volt Absorb - // - Quick Feet
+Flash Fire - // - Guts
+Trace - Download - Analytic
+Swift Swim - Shell Armor - Weak Armor
+Swift Swim - Shell Armor - Weak Armor
+Swift Swim - Battle Armor - Weak Armor
+Swift Swim - Battle Armor - Weak Armor
+Rock Head - Pressure - Unnerve
+Immunity - Thick Fat - Gluttony
+Pressure - // - Snow Cloak
+Pressure - // - Static
+Pressure - // - Flame Body
+Shed Skin - // - Marvel Scale
+Shed Skin - // - Marvel Scale
+Inner Focus - // - Multiscale
+Pressure - // - Unnerve
+Synchronize - // - //
