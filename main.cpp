@@ -6,6 +6,19 @@
 
 using namespace std;
 
+void Numero(int i, Time* time, ofstream& Info){
+    if(time[i].dex < 10){
+        cout << " <00" << time[i].dex << ">" << endl;
+        Info << " <00" << time[i].dex << ">" << endl;
+    }else if(time[i].dex < 100){
+        cout << " <0" << time[i].dex << ">" << endl;
+        Info << " <0" << time[i].dex << ">" << endl;
+    }else{
+        cout << " <" << time[i].dex << ">" << endl;
+        Info << " <" << time[i].dex << ">" << endl;
+    }
+}
+
 void Tipo(Time* time, int i, ofstream& Info){
     string tipagem[18] = {"Normal", "Fogo", "Agua", "Planta", "Voador", "Lutador", "Veneno", "Eletrico", "Terra", "Pedra", "Psiquico", "Gelo", "Inseto", "Fantasma", "Metal", "Dragao", "Sombrio", "Fada"};
     
@@ -44,7 +57,6 @@ void Pokemon::Exibir(Pokemon* Dex){
     for(int i = 0; i < 151; i++){
         cout << Dex[i].dex << " " << Dex[i].nome << endl;
     }
-    //cout << endl;
 }
 
 void Time::InfoAdicionais(Time* time){
@@ -125,8 +137,9 @@ void Time::Preencher(Time* time, Pokemon*Dex){
 void Time::Exibir(Time* time, Pokemon* Dex, ofstream& Info){
     for(int i = 0; i < 6; i++){
         cout << endl << endl;
-        cout << "Pokemon: " << time[i].nome << endl;
-        Info << "Pokemon: " << time[i].nome << endl;
+        cout << "Pokemon: " << time[i].nome;
+        Info << "Pokemon: " << time[i].nome;
+        Numero(i, time, Info);
         Tipo(time, i, Info);
         cout << endl << "Altura: " << fixed << setprecision(2) << time[i].altura << "m  |  Peso: " << time[i].peso << "kg" << endl;
         Info << endl << "Altura: " << fixed << setprecision(2) << time[i].altura << "m  |  Peso: " << time[i].peso << "kg" << endl;
