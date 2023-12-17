@@ -145,17 +145,17 @@ void Time::Exibir(Time* time, Pokemon* Dex, ofstream& Info){
         Info << endl << "Altura: " << fixed << setprecision(2) << time[i].altura << "m  |  Peso: " << time[i].peso << "kg" << endl;
         cout << "Stats: HP(" << time[i].stats[0] << ") ATK(" << time[i].stats[1] << ") DEF(" << time[i].stats[2] << ") SP.ATK(" << time[i].stats[3] << ") SP.DEF(" << time[i].stats[4] << ") SPE(" << time[i].stats[5] << ") Total(" << time[i].stats[6] << ")";
         Info << "Stats: HP(" << time[i].stats[0] << ") ATK(" << time[i].stats[1] << ") DEF(" << time[i].stats[2] << ") SP.ATK(" << time[i].stats[3] << ") SP.DEF(" << time[i].stats[4] << ") SPE(" << time[i].stats[5] << ") Total(" << time[i].stats[6] << ")";
-        Info << endl << "Possíveis habilidades: " << endl << time[i].hab << endl;
-        cout << endl << "Possíveis habilidades: " << endl << time[i].hab << endl;
+        Info << endl << "Possíveis habilidades: " << endl << time[i].hab ;
+        cout << endl << "Possíveis habilidades: " << endl << time[i].hab;
         
         if(time[i].evolvl != -1 && time[i].final == 0){
-            cout << "Evolui para " << Dex[time[i].dex].nome << " no nível " << time[i].evolvl;
-            Info << "Evolui para " << Dex[time[i].dex].nome << " no nível " << time[i].evolvl;
+            cout << endl << "Evolui para " << Dex[time[i].dex].nome << " no nível " << time[i].evolvl;
+            Info << endl << "Evolui para " << Dex[time[i].dex].nome << " no nível " << time[i].evolvl;
         }else if(time[i].evolvl == -1 && time[i].final == 0){
-            cout << "Evolui com métodos especiais";
-            Info << "Evolui com métodos especiais";
+            cout << endl << "Evolui com métodos especiais";
+            Info << endl << "Evolui com métodos especiais";
         }
-    Info << endl << endl;    
+    if(i < 5){Info << endl << endl;}
     }
 }
 
