@@ -7,6 +7,7 @@
 using namespace std;
 
 void Numero(int i, Time* time, ofstream& Info){
+    //Exibe o número do pokémon na pokédex e coloca-o dentro de um arquivo
     if(time[i].dex < 10){
         cout << " <00" << time[i].dex << ">" << endl;
         Info << " <00" << time[i].dex << ">" << endl;
@@ -20,6 +21,7 @@ void Numero(int i, Time* time, ofstream& Info){
 }
 
 void Tipo(Time* time, int i, ofstream& Info){
+    //Exibe as possíveis duas tipagens do pokémon
     string tipagem[18] = {"Normal", "Fogo", "Agua", "Planta", "Voador", "Lutador", "Veneno", "Eletrico", "Terra", "Pedra", "Psiquico", "Gelo", "Inseto", "Fantasma", "Metal", "Dragao", "Sombrio", "Fada"};
     
     cout << "Tipo: " << tipagem[time[i].tipo];
@@ -31,6 +33,7 @@ void Tipo(Time* time, int i, ofstream& Info){
 }
 
 void Pokemon::Preencher(ifstream& arquivo, Pokemon* Dex){
+    //Retira as informações do arquivo e armazena em um vetor
     Pokemon pokemon;
     string linha;
     int cont = 0;
@@ -54,12 +57,14 @@ void Pokemon::Preencher(ifstream& arquivo, Pokemon* Dex){
 };
 
 void Pokemon::Exibir(Pokemon* Dex){
+    //Apresenta todos os nomes dos pokémons e seus respectivos números ao usuário
     for(int i = 0; i < 151; i++){
         cout << Dex[i].dex << " " << Dex[i].nome << endl;
     }
 }
 
 void Time::InfoAdicionais(Time* time){
+    //Armazena as informações de stats e possíveis habilidades aos 6 pokemons escolhidos
     int encontrar = 1;
     ifstream info;
     string linha;
@@ -105,6 +110,7 @@ void Time::InfoAdicionais(Time* time){
 }
 
 void Time::Preencher(Time* time, Pokemon*Dex){
+    //Solicita 6 pokémons ao usuário e os armazena em um vetor
     string nome;
     int cont = 0;
 
@@ -135,6 +141,7 @@ void Time::Preencher(Time* time, Pokemon*Dex){
 }
 
 void Time::Exibir(Time* time, Pokemon* Dex, ofstream& Info){
+    //Exibe todas as informações dos 6 pokémons escolhidos e armazena as mesmas em um arquivo
     for(int i = 0; i < 6; i++){
         cout << endl << endl;
         cout << "Pokemon: " << time[i].nome;
